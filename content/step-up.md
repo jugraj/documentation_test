@@ -3,7 +3,7 @@ id: step_up_docs
 title: Step-Up
 ---
 
-## Step-Up (Re-Auth) User
+## Step-Up (Re-Auth) User blah blah
 
 As part of some API calls, the user will be asked to strong customer (step-up) authenticate using one of the available authentication types plus the Cryptomathic-generated device ID. Currently, this flow is only enabled for domestic payments so when the user attempts to make a payment, it will need to go through the step-up authentication process.
 
