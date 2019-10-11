@@ -9,7 +9,7 @@ const config = {
       "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
     logoLink: "https://learn.hasura.io",
     title: "10x Banking",
-    githubUrl: "https://github.com/hasura/gatsby-gitbook-boilerplate",
+    githubUrl: "https://github.com/jugraj/documentation_test",
     helpUrl: "",
     tweetText: "",
     links: [{ text: "", link: "" }],
@@ -22,7 +22,7 @@ const config = {
     }
   },
   sidebar: {
-    forcedNavOrder: ["/introduction", "/codeblock"],
+    forcedNavOrder: ["/introduction", "/codeblock", "/step-up"],
     links: [{ text: "Hasura", link: "https://hasura.io" }],
     frontline: false,
     ignoreIndex: true
@@ -32,7 +32,7 @@ const config = {
     description: "Documentation built with mdx. Powering learn.hasura.io ",
     ogImage: null,
     docsLocation:
-      "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+      "https://github.com/jugraj/documentation_test/blob/master/content",
     favicon: "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
   }
 };
