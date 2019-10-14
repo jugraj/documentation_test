@@ -11,7 +11,7 @@ As part of some API calls, the user will be asked to strong customer (step-up) a
 
 When a payment is initiated through the Domestic Payments API without a valid transaction identifier, the platform will return a 403 error with following response to indicate that the request requires step-up authentication.
 
-**Initial Request:**
+**Initial Request: khasdk hasf haskf als hasoay **
 
 ```
 POST /v1/payments/domestic  
